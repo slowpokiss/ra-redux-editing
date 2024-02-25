@@ -1,0 +1,9 @@
+export const CHANGE_PRICE = "CHANGE_PRICE";
+export const CHANGE_TITLE = "CHANGE_TITLE";
+export const SUBMIT_FORM = "SUBMIT_FORM";
+export const CLEAR_FORM = "CLEAR_FORM";
+export const DElETE_ITEM = "DElETE_ITEM";
+export const EDIT_ITEM = "EDIT_ITEM";
+export const SET_CURRSTATE = "SET_CURRSTATE";
+export const FILTER_ITEMS = "FILTER_ITEMS";
+export const CLEAR_FILTERS = "CLEAR_FILTERS";
